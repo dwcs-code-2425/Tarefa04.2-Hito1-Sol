@@ -1,9 +1,10 @@
 # Comandos ejecutados
 
 1. Se creó el proyecto 
+   
 composer create-project symfony/skeleton:"7.2.x" tarea0421 
 
-2. Se añadieron las dependencias para una webapp 
+1. Se añadieron las dependencias para una webapp 
 cd tarea0421
 composer require webapp
 
